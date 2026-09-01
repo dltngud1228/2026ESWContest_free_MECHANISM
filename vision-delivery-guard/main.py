@@ -38,7 +38,7 @@ OCR_PAGE_SEGMENTATION_MODES = (6, 11)
 TARGET_PARTS = [    
     "한국공학대학교",
     "제2생활관",
-    "1518",
+    "422호",
 ]
 
 
